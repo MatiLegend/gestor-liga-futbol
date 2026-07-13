@@ -1,0 +1,12 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Python
+*.pyc
+__pycache__/
+
+# Django
+db.sqlite3
+media/
